@@ -2,10 +2,10 @@
 
 Python/PyTorch source code for the paper:
 
-	A. Genovese, V. Piuri, and F. Scotti, 
-    "A Decision Support System for Acute Lymphoblastic Leukemia Detection based on Explainable Artificial Intelligence", 
-    in Image and Vision Computing, vol. 151, no. 105298, November, 2024. ISSN: 0262-8856. 
-    [DOI: 10.1016/j.imavis.2024.105298]
+A. Genovese, V. Piuri, and F. Scotti, 
+"A Decision Support System for Acute Lymphoblastic Leukemia Detection based on Explainable Artificial Intelligence", 
+in Image and Vision Computing, vol. 151, no. 105298, November, 2024. ISSN: 0262-8856. 
+[DOI: 10.1016/j.imavis.2024.105298]
 	
 Project page:
 [https://iebil.di.unimi.it/cnnALL/index.htm](https://iebil.di.unimi.it/cnnALL/index.htm)
